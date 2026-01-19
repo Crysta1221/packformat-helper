@@ -35,6 +35,9 @@ This extension does not add any additional settings.
 ### 1.0.0
 - Initial release of `packformat-helper`.
 
+### 1.0.1
+- Update package.json
+
 
 ## More Information
 
