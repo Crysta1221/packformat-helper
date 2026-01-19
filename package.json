@@ -1,6 +1,7 @@
 {
   "name": "packformat-helper",
   "displayName": "Packformat Helper",
+  "publisher":"ibfjmy25",
   "description": "Easily update pack.mcmeta pack_format for Minecraft datapacks.",
   "version": "0.0.1",
   "engines": {

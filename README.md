@@ -38,6 +38,9 @@ This extension does not add any additional settings.
 ### 1.0.1
 - Update package.json
 
+### 1.0.2
+- Update package.json
+
 
 ## More Information
 
