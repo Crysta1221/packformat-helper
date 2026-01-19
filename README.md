@@ -41,6 +41,10 @@ This extension does not add any additional settings.
 ### 1.0.2
 - Update package.json
 
+### 1.0.3
+- Update package.json
+- Add icon.png
+
 
 ## More Information
 
