@@ -42,5 +42,3 @@ This extension does not add any additional settings.
 
 ## Author
 x (Twitter: [@ib_fjmy25](https://x.com/ib_fjmy25))  
-
-
