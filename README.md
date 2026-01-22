@@ -36,17 +36,20 @@ This extension does not add any additional settings.
 - Initial release of `packformat-helper`.
 
 ### 1.0.1
-- Update package.json
+- Updated package.json
 
 ### 1.0.2
-- Update package.json
+- Updated package.json
 
 ### 1.0.3
-- Update package.json
-- Add icon.png
+- Updated package.json
+- Added icon.png
 
 ### 1.0.4
-- Update icon.png
+- Updated icon.png
+
+### 1.0.5
+- Added Version "26.1-snapshot-4"
 
 
 ## More Information
