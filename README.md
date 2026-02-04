@@ -54,6 +54,9 @@ This extension does not add any additional settings.
 ### 1.0.6
 - Added Version "26.1-snapshot-5"
 
+### 1.0.7
+- Added Version "26.1-snapshot-6"
+
 
 ## More Information
 
