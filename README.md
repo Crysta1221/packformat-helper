@@ -17,7 +17,7 @@ A VS Code extension to help update Minecraft `pack.mcmeta` files for Data Packs 
 ## How to Use
 
 1. Open a `pack.mcmeta` file in VS Code.  
-2. Press `Ctrl+Alt+A` (or your configured shortcut).  
+2. Press `Ctrl+Shift+A` (or your configured shortcut).  
 3. Enter the Minecraft version (e.g., `D1.21.4`, `R1.21.1`, `D24w12a`).  
 4. The extension automatically updates the file with the correct format.
 
@@ -56,6 +56,10 @@ This extension does not add any additional settings.
 
 ### 1.0.7
 - Added Version "26.1-snapshot-6"
+
+### 1.0.8
+- Partial correction to the README.md
+  Ctrl+Alt+A → Ctrl+Shift+A
 
 
 ## More Information
