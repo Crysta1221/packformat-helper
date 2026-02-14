@@ -59,7 +59,10 @@ This extension does not add any additional settings.
 
 ### 1.0.8
 - Partial correction to the README.md
-  Ctrl+Alt+A → Ctrl+Shift+A
+- Ctrl+Alt+A → Ctrl+Shift+A
+
+### 1.0.9
+- Added Version "26.1-snapshot-7"
 
 
 ## More Information

@@ -3,7 +3,7 @@
   "displayName": "Packformat Helper",
   "publisher":"ibfjmy25",
   "description": "Easily update pack.mcmeta pack_format for Minecraft datapacks.",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "icon":"icon.png",
   "engines": {
     "vscode": "^1.108.1"
