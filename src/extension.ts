@@ -662,7 +662,9 @@ const dataPackVersions: Record<string, number[] | number> = {
 
 	"26.1-snapshot-7":[99,1],
 
-	//26.02.15更新
+	"26.1-snapshot-8":[99,2]
+
+	//26.02.18更新
 
 };
 
@@ -1511,9 +1513,11 @@ const resourcePackVersions: Record<string, number[] | number> = {
 
 	"26.1-snapshot-6":[80,0],
 
-	"26.1-snapshot-7":[81,0]
+	"26.1-snapshot-7":[81,0],
 
-	//26.02.15更新
+	"26.1-snapshot-8":[81,1]
+
+	//26.02.18更新
 
 };
 
