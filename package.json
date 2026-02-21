@@ -1,17 +1,19 @@
 {
   "name": "packformat-helper",
   "displayName": "Packformat Helper",
-  "publisher":"ibfjmy25",
+  "publisher": "ibfjmy25",
   "description": "Easily update pack.mcmeta pack_format for Minecraft datapacks.",
   "version": "1.0.10",
-  "icon":"icon.png",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.108.1"
   },
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
@@ -38,16 +40,16 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",
-    "@types/node": "22.x",
-    "@types/vscode": "^1.108.1",
+    "@types/node": "^25.3.0",
+    "@types/vscode": "^1.109.0",
     "@vscode/test-cli": "^0.0.12",
     "@vscode/test-electron": "^2.5.2",
-    "eslint": "^9.39.2",
+    "eslint": "^10.0.1",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.52.0"
+    "typescript-eslint": "^8.56.0"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/ib-pino/packformat-helper"
-}
+    "type": "git",
+    "url": "https://github.com/ib-pino/packformat-helper"
+  }
 }
