@@ -3,3 +3,7 @@ dist
 node_modules
 .vscode-test/
 *.vsix
+
+# npm package cache
+package-lock.json
+bun.lock
